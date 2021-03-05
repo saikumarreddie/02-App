@@ -1,4 +1,4 @@
-public class DateUtils{
+protected class DateUtils{
 
 	priavte static final final String REST_URL = "hhtps://www.equifax.com/getScores";
 
